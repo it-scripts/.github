@@ -19,5 +19,5 @@
 [![IT-SCRIPTS](https://i.imgur.com/rmJ63QI.png)](https://github.com/inseltreff-net)
 </div>
 
-### `✉️` | [Mail](mailto:kontakt@allroundjonu,net)
+### `✉️` | [Mail](mailto:kontakt@allroundjonu.net)
 ### `💬` | [Discord](https://discord.gg/dRfAPVBM82)
