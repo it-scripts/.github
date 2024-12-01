@@ -10,7 +10,7 @@
 </div>
 
 ### `🗂️` | [GitHub](https://github.com/it-scripts)
-### `📖` | [Documentation](https://docs.allroundjonu.net)
+### `📖` | [Documentation](https://docs.it-scripts.com)
 ### `💬` | [Discord](https://discord.gg/dRfAPVBM82)
 
 
